@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/release/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/release/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    }
+]

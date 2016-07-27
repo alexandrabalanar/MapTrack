@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/sez21/Desktop/R&D/smart-location-lib-master/library/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/res/merged/androidTest/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/sez21/Desktop/R&D/MApTrack/SmartLocationlib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_light.xml"
+    }
+]
